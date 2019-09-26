@@ -30,4 +30,6 @@ the size in bytes of each element of the array. For example, an array of element
 the buffer containing the actual elements of the array. Normally, we won’t need to use this attribute because we will access the elements in an array using indexing facilities.
 
 
+<script src="https://gist.github.com/nayeem990/b1d302e56f698c7fb30d6f478a785a9d.js"></script>
+
   
